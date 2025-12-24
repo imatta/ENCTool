@@ -1,0 +1,11 @@
+numpy>=2.0.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+rapidfuzz>=3.0.0
+flask>=3.0.0
+werkzeug>=3.0.0
+
+# Alternative to rapidfuzz (if rapidfuzz is not available):
+# fuzzywuzzy>=0.18.0
+# python-Levenshtein>=0.12.0
+
